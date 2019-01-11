@@ -1,5 +1,5 @@
 <?php
-
+include_once("./Services/Cron/classes/class.ilCronHookPlugin.php");
 require_once __DIR__ . "/../../../../Repository/RepositoryObject/H5P/vendor/autoload.php";
 require_once __DIR__ . "/../vendor/autoload.php";
 
